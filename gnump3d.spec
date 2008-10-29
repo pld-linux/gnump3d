@@ -1,5 +1,6 @@
 Summary:	GNUMP3d is a streaming server for MP3s, OGG vorbis files, movies and other media formats
 Summary(hu.UTF-8):	GNUMP3d egy stream server MP3, OGG, videó és egyéb média fájlokhoz.
+Summary(pl.UTF-8):	GNUMP3d jest serwerem pozwalającym na strumieniowe transmisje dźwięku i filmów
 Name:		gnump3d
 Version:	3.0
 Release:	0.1
@@ -34,6 +35,17 @@ következők jellemzik:
 - egyszerű telepítés, beállítás és használat
 - hordozható a Unix különböző változatai, a GNU Operációs Rendszer és
   a Microsoft Windows platformok között
+
+%description -l pl.UTF-8
+GNUMP3d jest serwerem pozwalającym na strumieniowe transmisje danych
+multimedialnych takich jak muzyka w formacie mp3 lub ogg oraz filmy.
+HNUMP3d został tak zaprojektowany, aby być:
+
+- mały, stabilny, przenośny, niezależny od innych programów,
+  bezpieczny;
+- łatwy do instalacji, skonfigurowania, uruchomienia;
+- przenośny pomiędzy różnymi wersjami Uniksa, systemem GNU oraz
+  systemami Microsoftu.
 
 %prep
 %setup -q
