@@ -26,8 +26,8 @@ other media formats. It is designed to be:
   System, and Microsoft Windows platforms.
 
 
-%description -l pl.UTF-8
-GNUMP3d egy sream szerver MP3, OGG, videó és egyéb média fájlokhoz. A
+%description -l hu.UTF-8
+GNUMP3d egy stream szerver MP3, OGG, videó és egyéb média fájlokhoz. A
 következők jellemzik:
 
 - kicsi, stabil, hordozható, biztonságos
